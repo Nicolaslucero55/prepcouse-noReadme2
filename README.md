@@ -1,2 +1,1 @@
-# prueba.henry
-este es un proyecto de prueba de prepcourse de prueba de henry
+este es la prueba  de un repositorio y  clonarlo desde git hub a mi computadora pa.
